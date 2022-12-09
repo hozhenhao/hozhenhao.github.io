@@ -1,0 +1,6 @@
+_site
+
+# Ignore drafts and templates
+drafts/
+template/
+screenshots/
