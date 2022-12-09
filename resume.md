@@ -8,10 +8,10 @@ subtitle: A Short Profile
 <br>
 
 ### TECHNICAL SKILLS
-``` Python | Pytorch | Scikit-Learn | SHAP | Linux | Ray | Dask | Snakemake | Shell Scripting ```
+``` Python| Pytorch| Scikit-Learn| SHAP| Linux| Ray| Dask| Snakemake| Shell Scripting ```
 
 ### MACHINE LEARNING SKILLS
-``` Neural Nets | Image Segmentation | Image Classification | Tree-Based Algorithms | Regression ```  
+``` Neural Nets| Image Segmentation| Image Classification| Tree-Based Algorithms| Regression ```  
 
 ### INDUSTRIAL PROJECTS
 **Title** - Federated Simulation of Retinal Image Segmentation - Sponsor Redacted <span style="float: right; ">Jun 2022 - Dec 2022</span>  
@@ -26,6 +26,7 @@ subtitle: A Short Profile
 - Final Presentation Project in an 2 months AI/ML bootcamp.
 - This final project is implemented within 4 days.
 - Implemented the DirtNet paper with YOLOv3 model and expose the model through FastAPI and Streamlit.
+- <strong> <a hred="https://github.com/ai-bootcamp-team6/dirtdetection">Project Link </a> </strong>
 
 ### TRAINING & CERTIFICATIONS
 
@@ -43,17 +44,17 @@ AI Singapore <span style="float: right; ">Apr 2022 - Present</span>
 IBM Skill Academy <span style="float: right; ">Aug 2021 - Feb 2022</span>  
 **IBM i.am.vitalize AI Track**  
 
-- IBM Artifical Intelligence Practitioner Certificate
-- IBM Data Science Practitioner Certificate
-- IBM Cloud Computing Practitioner Certificate
-- IBM Enterprise Design Thinking Co-Creator & Graduate Certificate
+- <strong> <a href="https://www.credly.com/badges/d8e1a394-7f5b-48f5-860a-8d2db1992115">IBM Artifical Intelligence Practitioner Certificate </a> </strong>
+- <strong> <a href="https://www.credly.com/badges/528c6dd3-fee9-45b9-bcf5-58a00bf8738a?">IBM Data Science Practitioner Certificate </a> </strong>
+- <strong> <a href="https://www.credly.com/badges/f844c406-2875-4972-b417-745a58a15a67?">IBM Cloud Computing Practitioner Certificate </a> </strong>
+- <strong> <a href="https://www.credly.com/badges/4156bbc9-2170-4224-b846-9ede26f6ea66?">IBM Enterprise Design Thinking Co-Creator & Graduate Certificate </a> </strong>
 
-NUS Fintech Lab <span style="float: right; ">Aug 2020 - Oct 2020</span>  
+NUS School of Computing <span style="float: right; ">Aug 2020 - Oct 2020</span>  
 **NUS Fintech Lab Singapore Program**  
 
-- Professional Certificate in FinTech Developer Level 3
-- Professional Certificate in FinTech Developer Level 2
-- Professional Certificate in FinTech Developer Level 1
+- <strong> <a href="https://credentials.nus.edu.sg/51a614d6-77d5-42b0-8717-7752ae3d2fe3">Professional Certificate in FinTech Developer Level 3 </a> </strong>
+- <strong> <a href="https://credentials.nus.edu.sg/928f4498-0fb0-4ce0-8291-956b9487291b">Professional Certificate in FinTech Developer Level 2 </a> </strong>
+- <strong> <a href="https://credentials.nus.edu.sg/290c76c2-0650-48a7-92db-9e4cdff8e3be">Professional Certificate in FinTech Developer Level 1 </a> </strong>
 
 The Institute of Banking & Finance Singapore <span style="float: right; ">Issued Oct 2015</span><br>
 **International Compliance Association**
