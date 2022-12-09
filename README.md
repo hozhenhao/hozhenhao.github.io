@@ -1,3 +1,9 @@
+# Credit
+Theme by Pudhina
+
+[Original Repo](https://github.com/knhash/Pudhina)
+
+
 # Pudhina
 A simple, minimal [Jekyll](jekyllrb.com) theme for a personal web page and blog, focusing on white space and readability
 
