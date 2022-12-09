@@ -7,17 +7,20 @@ subtitle: A Short Profile
 <!--<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>-->
 <br>
 
-### SKILLS
-``` Tech Stack: Python | Pytorch | Scikit-Learn | SHAP | Linux | Ray | Dask | Snakemake | Shell Scripting ```<br>
-``` Machine Learning: Neural Nets | Image Segmentation | Image Classification | Tree-Based Algorithms | Regression ```  
+### TECHNICAL SKILLS
+``` Python | Pytorch | Scikit-Learn | SHAP | Linux | Ray | Dask | Snakemake | Shell Scripting ```
 
-### PROJECTS
+### MACHINE LEARNING SKILLS
+``` Neural Nets | Image Segmentation | Image Classification | Tree-Based Algorithms | Regression ```  
+
+### INDUSTRIAL PROJECTS
 **Title** - Federated Simulation of Retinal Image Segmentation - Sponsor Redacted <span style="float: right; ">Jun 2022 - Dec 2022</span>  
 
 - Simulated federated image segmentation using distributed computing tools and data partitioning to prove the viability of Federated Machine Learning with data residing in different geographic regions.
 - The image segmenation is implemented with patch-based and boundary refinement methods in order to handle large medical images.
 - The simulation is implemented with lazy-loading of data to optimize ram and memory usage as well as patching to retain all the image spatial information. 
 
+### PERSONAL PROJECTS
 **Title** - Dirt Detection CV App using FastAPI and Streamlit - Deep Skilling Bootcamp <span style="float: right; ">Jun 2022 - Jun 2022</span>  
 
 - Final Presentation Project in an 2 months AI/ML bootcamp.

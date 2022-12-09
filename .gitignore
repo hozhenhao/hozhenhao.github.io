@@ -4,3 +4,6 @@ _site
 drafts/
 template/
 screenshots/
+
+# Ignore text file
+token.txt
