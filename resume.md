@@ -8,13 +8,13 @@ subtitle: A Short Profile
 <br>
 
 ### TECHNICAL SKILLS
-``` Python| Pytorch| Scikit-Learn| SHAP| Linux| Ray| Dask| Snakemake| Shell Scripting ```
+``` Python|Pytorch|Scikit-Learn|SHAP|Linux|Ray|Dask|Snakemake|Shell Scripting ```
 
 ### MACHINE LEARNING SKILLS
-``` Neural Nets| Image Segmentation| Image Classification| Tree-Based Algorithms| Regression ```  
+``` Neural Nets|Image Segmentation|Image Classification|Tree-Based Algorithms|Regression ```  
 
 ### INDUSTRIAL PROJECTS
-**Title** - Federated Simulation of Retinal Image Segmentation - Sponsor Redacted <span style="float: right; ">Jun 2022 - Dec 2022</span>  
+**Title** - Federated Simulation of Medical Image Segmentation - Sponsor Redacted <span style="float: right; ">Jun 2022 - Dec 2022</span>  
 
 - Simulated federated image segmentation using distributed computing tools and data partitioning to prove the viability of Federated Machine Learning with data residing in different geographic regions.
 - The image segmenation is implemented with patch-based and boundary refinement methods in order to handle large medical images.
@@ -23,10 +23,10 @@ subtitle: A Short Profile
 ### PERSONAL PROJECTS
 **Title** - Dirt Detection CV App using FastAPI and Streamlit - Deep Skilling Bootcamp <span style="float: right; ">Jun 2022 - Jun 2022</span>  
 
-- Final Presentation Project in an 2 months AI/ML bootcamp.
-- This final project is implemented within 4 days.
+- Final Group Presentation Project in an 2 months AI/ML bootcamp.
+- This project is implemented within 4 days as the final curtains of the Bootcamp.
 - Implemented the DirtNet paper with YOLOv3 model and expose the model through FastAPI and Streamlit.
-- <strong> <a hred="https://github.com/ai-bootcamp-team6/dirtdetection">Project Link </a> </strong>
+- <strong> <a href="https://github.com/ai-bootcamp-team6/dirtdetection">Project Link </a> </strong>
 
 ### TRAINING & CERTIFICATIONS
 
