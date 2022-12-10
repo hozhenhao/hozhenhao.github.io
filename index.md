@@ -11,5 +11,6 @@ sitemap:
 <div id="describe-text">
 	<p>Privacy Preserving ML | Federated Learning</p>
 	<p>Strong Communicator | Stakeholder Management</p>
+	<p>Standing on the Shoulders of Giants</p>
 	<!--<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>-->
 </div>
